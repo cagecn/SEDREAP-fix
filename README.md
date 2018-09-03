@@ -23,3 +23,6 @@ after
 2.put SEDREAP-fix.jar to C:\Program Files\SEDREAP\Resources\Sdr\WEB-INF\lib
 
 3.restart SEDREAP，then you will watch svg formate print
+
+
+cage.Lau@qq.com
