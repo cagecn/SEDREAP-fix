@@ -12,6 +12,8 @@ fix SEDREAP svg unvisible on ie11 firefox chrome
 		<url-pattern>/svgLoader</url-pattern>
 	</filter-mapping>
 after
+
+
 	<filter-mapping>
 		<filter-name>sessiontimeoutfilter</filter-name>
 		<servlet-name>svgLoader</servlet-name>
